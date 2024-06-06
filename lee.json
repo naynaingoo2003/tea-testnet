@@ -1,5 +1,12 @@
 {
-  "name": "Lee Token",
-  "symbol": "LEEFR",
-  "image": "https://arweave.net/itK2SKyCDAdBl-t9sHDQzeP4Roh3UgMaqnKImRXSrvo"
+  "name": "LEETOKEN",
+  "symbol": "LEET",
+  "uri": "https://raw.githubusercontent.com/naynaingoo2003/tea-testnet/main/lee.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "CtgDSQepuaevVpHtgQUJPj6sKBJrJbjDXbjZmYWXrfNw",
+      "share": 100
+    }
+  ]
 }
